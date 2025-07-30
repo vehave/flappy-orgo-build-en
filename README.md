@@ -15,7 +15,7 @@ Flappy Orgo is an engaging educational game designed to make learning organic ch
 - Interactive Gameplay: Players navigate obstacles while answering multiple-choice questions, enhancing learning and retention.
 - Progress Tracking: Easily monitor your progress and improvement throughout the game.
 - Behaviorist Learning Theory: The game is based on behaviorist principles, emphasizing repetition and feedback for effective learning.
-- 
+
 ## Development
 
 Flappy Orgo was developed by a master's degree holder in educational technology with extensive experience in teaching chemistry. The game combines educational content with engaging gameplay to provide a unique learning experience.
