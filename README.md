@@ -1,4 +1,4 @@
-# Flappy Orgo
+<img src="title.PNG" alt="Flappy Orgo">
 
 <a href="https://vehave.github.io/polynomial-bingo-build/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
 
