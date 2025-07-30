@@ -28,8 +28,11 @@ Flappy Orgo was developed by a master's degree holder in educational technology 
 
 <img src="sc.png" alt="Game view">
 
+
 <img src="sc1.png" alt="Game view">
 
+
 <img src="sc2.png" alt="Game view">
+
 
 <img src="sc3.png" alt="Game view">
