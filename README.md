@@ -26,13 +26,14 @@ Flappy Orgo was developed by a master's degree holder in educational technology 
 
 ## Screenshots
 
-<img src="sc.png" alt="Game view">
+<img src="flappy.orgo.organic.chemistry.JPG" alt="Game view">
 
+<img src="flappy.orgo.organic.chemistry (2).JPG" alt="Game view">
 
-<img src="sc1.png" alt="Game view">
+<img src="flappy.orgo.organic.chemistry (3).JPG" alt="Game view">
 
+<img src="flappy.orgo.organic.chemistry (4).JPG" alt="Game view">
 
-<img src="sc2.png" alt="Game view">
+<img src="flappy.orgo.organic.chemistry (5).JPG" alt="Game view">
 
-
-<img src="sc3.png" alt="Game view">
+<img src="flappy.orgo.organic.chemistry (6).JPG" alt="Game view">
