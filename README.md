@@ -1,6 +1,6 @@
 <img src="title.png" alt="Flappy Orgo">
 
-<a href="https://vehave.github.io/polynomial-bingo-build/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
+<a href="https://vehave.github.io/flappy-orgo-build-en/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
 
 Flappy Orgo is an engaging educational game designed to make learning organic chemistry fun and interactive. This game helps students master the names and structures of organic compounds, which are essential for success in various scientific fields.
 
